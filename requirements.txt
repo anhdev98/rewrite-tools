@@ -1,0 +1,5 @@
+streamlit
+pytube
+youtube_transcript_api
+newspaper3k
+google-generativeai
